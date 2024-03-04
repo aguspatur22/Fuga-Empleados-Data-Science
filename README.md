@@ -1,4 +1,4 @@
-# Fuga-Empleados-Data-Science
+# Fuga de Empleados - Data Science
 Proyecto de analisis de  datos sobre fuga de empleados. Business Intelligence, Machine learning y posteriormente Tableu.
 
 ## Descripción del Problema:
@@ -11,3 +11,4 @@ El problema radica en la fuga de empleados en una empresa, lo que puede afectar 
 - Machine Learning: Implementar modelos predictivos para predecir la probabilidad de abandono de empleados. Esto permite anticiparse a las renuncias y tomar medidas proactivas.
 
 - Tableau: Crear dashboards interactivos con Tableau para visualizar métricas relacionadas con la fuga de empleados, facilitando la toma de decisiones informadas.
+[Enlace a dashboard del proyecto](https://public.tableau.com/app/profile/agustin.paturlanne/viz/DashboardFugadeEmpleados_17094933831250/DashboardFugaEmpleados)
