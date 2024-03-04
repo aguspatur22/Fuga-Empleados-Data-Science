@@ -1,5 +1,5 @@
 # Fuga de Empleados - Data Science
-Proyecto de analisis de  datos sobre fuga de empleados. Business Intelligence, Machine learning y posteriormente Tableu.
+Proyecto de analisis de  datos sobre fuga de empleados. Business Intelligence, Machine learning y Tableu.
 
 ## Descripción del Problema:
 El problema radica en la fuga de empleados en una empresa, lo que puede afectar la productividad y los costos de reclutamiento. Es crucial entender las razones detrás de esta fuga para implementar estrategias efectivas de retención.
